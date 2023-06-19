@@ -1,4 +1,4 @@
-#Typing Speed Test
+# Typing Speed Test
 This program is a typing speed test designed to test the typing speed of a user. The program presents the user with a prompt and measures how quickly and accurately the user can type the prompt.
 
 ## Requirements
