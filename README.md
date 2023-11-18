@@ -1,12 +1,12 @@
-# TextBlitz: Typing Speed Test
+# TextBlitz: Typing Speed Test ⌨️🚀
 
-Welcome to **TextBlitz**, a typing speed test program designed to evaluate and measure your typing speed and accuracy. This program presents users with prompts and assesses how quickly and precisely they can type the given text.
+Welcome to **TextBlitz**, a typing speed test program designed to evaluate and measure your typing speed and accuracy. This program presents users with prompts and assesses how quickly and precisely they can type the given text. 📈🔤
 
-## Requirements
+## Requirements 🛠️
 
 To run this program, you need a Python environment. No additional modules are required.
 
-## How to Use
+## How to Use 📝
 
 To utilize the TextBlitz typing speed test, follow these steps:
 
@@ -21,7 +21,7 @@ To utilize the TextBlitz typing speed test, follow these steps:
 
 4. You can choose to take the test again by typing a new sentence or exit the program.
 
-## Features
+## Features ✨
 
 The TextBlitz typing speed test program offers the following features:
 
@@ -33,12 +33,12 @@ The TextBlitz typing speed test program offers the following features:
 
 - Calculates and displays the Words Per Minute (WPM) for your typing.
 
-## Contributing
+## Contributing 🤝
 
-Contributions are welcome! If you have suggestions or feedback, please feel free to submit a pull request or open an issue. We value your input.
+Contributions are welcome! If you have suggestions or feedback, please feel free to submit a pull request or open an issue. We value your input. 🌟
 
-## License
+## License 📄
 
-This project is licensed under the `MIT License`, granting you the freedom to use, modify, and distribute the code as needed.
+This project is licensed under the `MIT License`, granting you the freedom to use, modify, and distribute the code as needed. 🔐
 
-We hope you find TextBlitz an engaging and valuable tool for testing and improving your typing speed. If you have any questions or require assistance, please don't hesitate to reach out.
+We hope you find TextBlitz an engaging and valuable tool for testing and improving your typing speed. If you have any questions or require assistance, please don't hesitate to reach out. 🙌
